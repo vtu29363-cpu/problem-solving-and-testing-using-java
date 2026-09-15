@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0918-maximum-sum-circular-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
+## Design
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
