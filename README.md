@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0918-maximum-sum-circular-subarray) |
+| [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +42,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
