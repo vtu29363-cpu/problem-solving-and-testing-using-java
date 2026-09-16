@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0053-maximum-subarray) |
+| [0905-sort-array-by-parity](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
