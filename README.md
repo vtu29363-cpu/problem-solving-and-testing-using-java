@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1472-design-browser-history) |
+| [1672-richest-customer-wealth](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0905-sort-array-by-parity) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
