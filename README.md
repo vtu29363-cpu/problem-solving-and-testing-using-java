@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
 | [1396-design-underground-system](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1396-design-underground-system) |
 ## Design
 |  |
@@ -74,10 +78,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/1672-richest-customer-wealth) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu29363-cpu/problem-solving-and-testing-using-java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
